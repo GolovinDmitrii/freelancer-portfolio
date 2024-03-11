@@ -1,3 +1,3 @@
 # freelancer-portfolio
 
-[Demo](https://golovindmitrii.github.io/Freelancer-portfolio/)
+[Demo](https://golovindmitrii.github.io/freelancer-portfolio/)
